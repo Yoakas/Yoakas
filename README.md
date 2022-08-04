@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yoakas
+- 👋 Hi, I’m @Anthony
 - 👀 I’m interested in create some project in python or C
 - 🌱 I’m currently learning the C languague
 
